@@ -19,7 +19,7 @@ class SettingTableSeeder extends Seeder
             'photo'=>"image.jpg",
             'logo'=>'logo.jpg',
             'address'=>"NO. 342 - London Oxford Street, 012 United Kingdom",
-            'email'=>"eshop@gmail.com",
+            'email'=>"medsuppp@gmail.com",
             'phone'=>"+62 317 921 119",
         );
         DB::table('settings')->insert($data);
