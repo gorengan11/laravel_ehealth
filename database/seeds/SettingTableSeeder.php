@@ -20,7 +20,7 @@ class SettingTableSeeder extends Seeder
             'logo'=>'logo.jpg',
             'address'=>"NO. 342 - London Oxford Street, 012 United Kingdom",
             'email'=>"eshop@gmail.com",
-            'phone'=>"+060 (800) 801-582",
+            'phone'=>"+62 317 921 119",
         );
         DB::table('settings')->insert($data);
     }
